@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Todo Application
 
 A modern, full-stack todo application built with React and Node.js, featuring user authentication and a clean, animated UI.
@@ -164,3 +165,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Created by [Sevval](https://github.com/sevval20)
 - Built with React and Node.js
 - Styled with Material-UI 
+=======
+# Full-Stack-Todo
+>>>>>>> 806c7f579afb2aa22e9777eee062ade68f476476
