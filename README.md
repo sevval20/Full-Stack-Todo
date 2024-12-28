@@ -2,6 +2,10 @@
 
 A modern, full-stack todo application built with React and Node.js, featuring user authentication and a clean, animated UI.
 
+## Demo
+
+[Live Demo](https://github.com/sevval20/Full-Stack-Todo)
+
 ## Features
 
 - **User Authentication**
@@ -54,8 +58,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/todo-project.git
-cd todo-project
+git clone https://github.com/sevval20/Full-Stack-Todo.git
+cd Full-Stack-Todo
 ```
 
 2. Install backend dependencies
@@ -120,7 +124,7 @@ The application will be available at:
 ## Project Structure
 
 ```
-todo-project/
+Full-Stack-Todo/
 ├── backend/
 │   ├── models/
 │   │   ├── User.js
@@ -153,10 +157,10 @@ todo-project/
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- Created by Sevval
+- Created by [Sevval](https://github.com/sevval20)
 - Built with React and Node.js
 - Styled with Material-UI 
